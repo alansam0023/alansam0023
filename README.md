@@ -1,7 +1,7 @@
-## Hi there 👋 It's me Hareesh
+## Hi there 👋 It's me Alan Samuel
 
-Software Engineer @ Zoho Corporation
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+Currently Learning Computer Languages with deep understanding and willing to learn more in depth 
+<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://giphy.com/gifs/kVh2PRDeRtr0rHAPkc)">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
